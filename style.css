@@ -1,22 +1,9 @@
-h1{
-    font-family: 𝒔𝒘𝒊𝒇𝒕𝒊𝒆;
-    font-size: 20;
-    color: #92aac6;
-    display: block;
-    margin: 0 auto;
-    margin-top: 20px;
-}
-h2{
-    font-family: serif;
-    font-size: 20;
-    color: #fbebcb;
-}
-article{
+body {
     background-color: #9c5d83;
-    display: block;
-    margin: 0 auto;
+    color: #5c839f;
 }
-footer{
-    background-color: #866962;
 
+ul {
+    text-decoration: underline
+    border:1px solid #ccc;
 }
